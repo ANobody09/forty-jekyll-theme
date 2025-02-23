@@ -11,7 +11,8 @@ city: Cancún
 state: Quintana Roo
 zip_code: 77558
 country: Mexico
-phone: 9984105555
+Telefono: 9984105555
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,13 +23,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/ANobody09
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/alex_ackerman03/
+  LinkedIn: https://www.linkedin.com/in/alex-villada-4082091a1/
+  Twitter: 
+  Facebook: https://www.facebook.com/pudin.navarrete/?locale=es_LA
   Slack:
 
 # build settings
