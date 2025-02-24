@@ -1,6 +1,6 @@
 ---
-layout: allposts
-title: All posts
+layout: no funciona
+title: no funciona
 landing-title: 'All posts'
 nav-menu: true
 description: null
