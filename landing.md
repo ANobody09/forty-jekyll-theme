@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: '¿Que es la programacion web?'
+title: ¿Que es la programacion web?
+layout: ¿Que es la programacion web?
+description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
