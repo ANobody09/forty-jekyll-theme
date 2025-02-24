@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: Musica
 description: La mejor musica de la historia
 image: assets/images/pic11.jpg
 nav-menu: true
