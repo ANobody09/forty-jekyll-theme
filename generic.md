@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Musica
 title: Musica
 description: La mejor musica de la historia
 image: assets/images/pic11.jpg
